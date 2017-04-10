@@ -1,0 +1,2 @@
+# SmartAgencyLP
+Landing page example
