@@ -8,3 +8,4 @@ Other technologies I used for the project:
 •	Icons - http://fontawesome.io/ 
 •	Slider Slick -  http://kenwheeler.github.io/slick/ 
 •	Animation effects – animate.css - https://daneden.github.io/animate.css/ 
+
