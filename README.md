@@ -10,9 +10,13 @@ As Less complier I used Winless.
 
 Other technologies I used for the project:
 
-  •	Icons - http://fontawesome.io/ 
+ •	PhpMailer library - https://github.com/PHPMailer/PHPMailer
+  
+ •	Animation effects – animate.css - https://daneden.github.io/animate.css/ 
 
-  •	Slider Slick -  http://kenwheeler.github.io/slick/ 
+ •	Slick Slider  -  http://kenwheeler.github.io/slick/ 
+  
+ •	Icons - http://fontawesome.io/ 
 
-  •	Animation effects – animate.css - https://daneden.github.io/animate.css/ 
+
 
