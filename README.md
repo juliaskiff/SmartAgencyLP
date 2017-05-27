@@ -1,5 +1,5 @@
 # SmartAgencyLP
-https://juliaskiff.github.io/SmartAgencyLP/SmartAgencyLP/index.html
+Direct link https://juliaskiff.github.io/SmartAgencyLP/SmartAgencyLP/index.html
 
 This project was implemented during my studies at one of the online front-end development courses. 
 Based on the lectures given by the course authors I made a responsive landing page layout using HTML, CSS, Less, Bootstrap 3, Jquerry and PHP technologies.
