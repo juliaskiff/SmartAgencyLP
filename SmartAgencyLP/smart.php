@@ -4,7 +4,7 @@ $username= $_POST['whatever'];
 $email= $_POST['whatever'];
 $user_message= $_POST['whatever'];
 
-require_once('phpmailer/PHPMailerAutoload.php'); //подключаем php/mailer, который находится в папке с сайтом
+require_once('phpmailer/PHPMailerAutoload.php'); 
 $mail = new PHPMailer;
 $mail->CharSet = 'utf-8';
 
@@ -28,9 +28,9 @@ $mail->addAddress('111970@mail.ru', 'Joe User');     // Add a recipient
 //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 $mail->isHTML(true);                                  // Set email format to HTML
 
-$mail->Subject = 'Это сабджект сообщения';
-$mail->Body    = 'Это тело сообщения дальше жирное <b>блаблабла</b>';
-$mail->AltBody = 'Это сообщение в формате plain text';
+$mail->Subject = 'Message subject';
+$mail->Body    = 'Message content';
+$mail->AltBody = 'Message in plain text format';
 
 if(!$mail->send()) {
     echo 'Message could not be sent.';
